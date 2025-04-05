@@ -33,9 +33,11 @@ ENV/
 
 # Project specific
 generated_images/
-config/credentials.json
-config/.env
+config/
 .env
+
+# macOS
+.DS_Store
 
 # Logs
 *.log
