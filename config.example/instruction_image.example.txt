@@ -1,0 +1,1 @@
+generate a image of car [car] and add a person standing on the side: [PERSON_DESCRIPTION]. The image should be realistic, fashion and modern.
